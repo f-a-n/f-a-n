@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @f-a-n
+- 👀 I’m interested in iOS app development
+- 🌱 I’m currently learning SwiftUI
